@@ -1,0 +1,2 @@
+# About ℹ️
+This project is just a sales funnel site I made for a business. The site offers a small quiz to filter people for potential customers. If the conversion is successful and the customer signs up, they are then contacted by a sales person.
